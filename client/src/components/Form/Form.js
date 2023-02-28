@@ -33,7 +33,7 @@ const Form = ({setTodos}) => {
       onChange={handleChange}
       />
     </div>
-      <button type="submit" className="btn btn-primary">Submit</button>
+      <button type="submit" className="btn btn-primary">Add Todo</button>
   </form>
 
   )
